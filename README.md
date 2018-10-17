@@ -4,7 +4,7 @@
 
 :ru: [Russian version](https://github.com/Yorko/mlcourse.ai/wiki/About-the-course-(in-Russian)) :ru: 
 
-:exclamation: Current session launched on **October 1, 2018**. Fill in [this form](https://drive.google.com/open?id=1_pDNuVHwBxV5wuOcdaXoxBZneyAQcqfOl4V2qkqKbNQ) to participate, ou can still join :exclamation:
+:exclamation: Current session launched on **October 1, 2018**. Fill in [this form](https://drive.google.com/open?id=1_pDNuVHwBxV5wuOcdaXoxBZneyAQcqfOl4V2qkqKbNQ) to participate, you can still join :exclamation:
 
 Mirrors (:uk:-only): [mlcourse.ai](https://mlcourse.ai) (main site), [Kaggle Dataset](https://www.kaggle.com/kashnitsky/mlcourse) (same notebooks as Kernels)
 
@@ -27,13 +27,15 @@ Videolectures are uploaded to [this](https://bit.ly/2zY6Xe2) YouTube playlist.
 Introduction, [video](https://youtu.be/QKTuw4PNOsU), [slides](https://bit.ly/2NuadRV)
 
 1. Exploratory data analysis with Pandas, [video](https://youtu.be/fwWCw_cE5aI). Discussion of the 1st demo assignment is [here](https://youtu.be/Twpn7ihVWjQ)
-
-
+2. Visualization, main plots for EDA, [video](https://www.youtube.com/watch?v=WNoQTNOME5g)
 
 ### Assignments
-1. Exploratory Data Analysis of Olympic games with Pandas, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_fall2018/assignment1_pandas_olympic.ipynb?flush_cache=true). Deadline: **October 14, 20:59 CET**
-2. Exploratory Data Analysis of US flights,  [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_fall2018/assignment2_USA_flights.ipynb?flush_cache=true). Deadline: **October 21, 20:59 CET**
+1. Exploratory Data Analysis of Olympic games with Pandas, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_fall2018/assignment1_pandas_olympic.ipynb?flush_cache=true). Deadline: **October 14, 21:59 UTC+2**
+2. Exploratory Data Analysis of US flights,  [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_fall2018/assignment2_USA_flights.ipynb?flush_cache=true). Deadline: **October 21, 21:59 UTC+2**
+3. Decision trees. [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_fall2018/assignment3_decision_trees.ipynb?flush_cache=true). Deadline: **October 28, 21:59 UTC+2**. Optional: implementing a decision tree algorithm, [nvbiewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_fall2018/assignment3_optional_implement_dt.ipynb?flush_cache=true) (no webforms and credits, the same deadline)
 
+
+These are demo versions. Just for practice, they don't have an impact on rating.  
 1. Exploratory data analysis with Pandas, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment01_pandas_uci_adult.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-1-pandas-and-uci-adult-dataset)
 2. Analyzing cardiovascular disease data, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment02_analyzing_cardiovascular_desease_data.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-2-analyzing-cardiovascular-data)
 3. Decision trees with a toy task and the UCI Adult dataset, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment03_decision_trees.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-3-decision-trees)
