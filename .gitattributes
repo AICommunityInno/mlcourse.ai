@@ -25,3 +25,7 @@
 Dockerfile linguist-vendored
 docker_files/* linguist-vendored
 data/news_data/* linguist-vendored
+
+*.ipynb	diff=jupyternotebook
+
+*.ipynb	merge=jupyternotebook
