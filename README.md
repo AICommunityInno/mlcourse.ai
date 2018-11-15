@@ -31,6 +31,8 @@ Introduction, [video](https://youtu.be/QKTuw4PNOsU), [slides](https://bit.ly/2Nu
 3. Decision trees: [theory](https://youtu.be/H4XlBTPv5rQ) and [practical part](https://youtu.be/RrVYO6Td9Js)
 4. Logistic regression: [theoretical foundations](https://www.youtube.com/watch?v=l3jiw-N544s), [practical part](https://www.youtube.com/watch?v=7o0SWgY89i8) (baselines in the "Alice" competition)
 5. Emsembles and Random Forest – [part 1](https://www.youtube.com/watch?v=neXJL-AqI_c). Classification metrics – [part 2](https://www.youtube.com/watch?v=aBOMYqGUlWQ). Example of a business task, predicting a customer payment – [part 3](https://www.youtube.com/watch?v=FmKU-1LZGoE) 
+6. Linear regression and regularization - [theory](https://youtu.be/ne-MfRfYs_c), LASSO & Ridge, LTV prediction - [practice](https://youtu.be/B8yIaIEMyIc)
+
 
 ### Assignments
 1. Exploratory Data Analysis of Olympic games with Pandas, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_fall2018/assignment1_pandas_olympic.ipynb?flush_cache=true). Deadline: **October 14, 21:59 UTC+2**
@@ -41,8 +43,7 @@ Introduction, [video](https://youtu.be/QKTuw4PNOsU), [slides](https://bit.ly/2Nu
 6. Beating baselines in "How good is your Medium article?". [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_fall2018/assignment6_medium_beat_baseline.ipynb). Deadline: **November 18, 21:59 UTC+2**
 
 
-
-These are demo versions. Just for practice, they don't have an impact on rating.  
+The following are demo versions. Just for practice, they don't have an impact on rating.  
 1. Exploratory data analysis with Pandas, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment01_pandas_uci_adult.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-1-pandas-and-uci-adult-dataset)
 2. Analyzing cardiovascular disease data, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment02_analyzing_cardiovascular_desease_data.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-2-analyzing-cardiovascular-data)
 3. Decision trees with a toy task and the UCI Adult dataset, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment03_decision_trees.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-3-decision-trees)
